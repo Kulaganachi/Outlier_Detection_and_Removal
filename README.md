@@ -117,17 +117,17 @@ df.shape
 
 
 
-BOXPLOT BEFORE REMOVING OUTLIERS
+## BOXPLOT BEFORE REMOVING OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/29adcfe2-6417-40e1-b1e3-14201f4946a6)
 
 
-NEWDATA USING IQR
+## NEWDATA USING IQR
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/4d223981-a746-406b-b208-a223efa9218b)
 
 
-OUTLIERS
+## OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/aa858057-41ff-4e37-bf1d-44fb98c44cee)
 
@@ -137,19 +137,19 @@ newdata.shape
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/d6fcb87b-8104-4aec-b017-106a951c02af)
 
 
-BOXPLOT AFTER REMOVING OUTLIERS USING IQR
+## BOXPLOT AFTER REMOVING OUTLIERS USING IQR
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/8cfd7960-640f-4ea5-834e-e754c7a2eabf)
 
 
 # Zscore of 3
 
-NEWDATA USING Zscore
+## NEWDATA USING Zscore
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/da151d5e-1391-4b79-ae44-66106fb75582)
 
 
-OUTLIERS
+## OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/8bf48255-2258-497d-a985-8d25da15506f)
 
@@ -159,7 +159,7 @@ newdata2.shape
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/20b5c36b-0c57-41e4-b4d4-09869f9a2ff2)
 
 
-BOXPLOT AFTER REMOVING OUTLIERS USING Zscore
+## BOXPLOT AFTER REMOVING OUTLIERS USING Zscore
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/b5a695e5-68a6-49ee-9dab-cf297c516cb2)
 
@@ -179,42 +179,43 @@ dataset.info()
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/5d1cb48d-159e-48b2-a6df-bed2c3677019)
 
 
-BOXPLOT BEFORE REMOVING OUTLIERS
+## BOXPLOT BEFORE REMOVING OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/1b1249aa-1f75-401b-a64b-9fd4907e7a00)
 
 
-HEIGHT OUTLIERS
+## HEIGHT OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/519ea6e9-e395-446f-88ea-b2bdfc884b90)
 
 
-DATASET AFTER REMOVING HEIGHT OUTLIERS
+## DATASET AFTER REMOVING HEIGHT OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/e2ed81bc-9d56-4134-ab73-d9fd9baf8506)
 
 
-BOXPLOT AFTER REMOVING HEIGHT OUTLIERS
+## BOXPLOT AFTER REMOVING HEIGHT OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/1e18f1e5-4978-4210-88e2-a62591856c18)
 
 
-WEIGHT OUTLIERS
+## WEIGHT OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/4cc4e289-e8d7-4f90-8f3a-18d7c877b5a9)
 
 
-DATASET AFTER REMOVING WEIGHT OUTLIERS
+## DATASET AFTER REMOVING WEIGHT OUTLIERS
 
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/2bebb2ea-367f-4da7-8658-e83169b147f3)
 
 
-BOXPLOT AFTER REMOVING WEIGHT OUTLIERS
+## BOXPLOT AFTER REMOVING WEIGHT OUTLIERS
 ![image](https://github.com/Kulaganachi/Outlier_Detection_and_Removal/assets/133641126/8abc2f26-d5a8-49cf-b315-a718c020a378)
 
 
 
-RESULT: The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
+## RESULT: 
+     The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
 
 
 
